@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "type": "course",
+      "id": "1",
+      "attributes": {
+        "title": "Web Development Fundamentals",
+        "description": "Learn the basics of web development, including HTML, CSS, and JavaScript."
+      }
+    },
+    {
+      "type": "course",
+      "id": "2",
+      "attributes": {
+        "title": "Responsive Web Design",
+        "description": "Learn how to create websites that look great on all devices, from desktops to smartphones."
+      }
+    },
+    {
+      "type": "course",
+      "id": "3",
+      "attributes": {
+        "title": "JavaScript for Web Developers",
+        "description": "Learn how to use JavaScript to create interactive web applications."
+      }
+    },
+    {
+      "type": "course",
+      "id": "4",
+      "attributes": {
+        "title": "Web Development with Node.js",
+        "description": "Learn how to use Node.js to build scalable web applications."
+      }
+    },
+    {
+      "type": "course",
+      "id": "5",
+      "attributes": {
+        "title": "Advanced Web Development Techniques",
+        "description": "Take your web development skills to the next level with advanced techniques and best practices."
+      }
+    }
+  ]
+}
